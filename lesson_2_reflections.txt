@@ -1,0 +1,13 @@
+Q:
+What happens when you initialize a repository? Why do you need to do it?
+
+A:
+Hidden file named .git is created.
+Which contain metadata about the file and directories it is tracking.
+
+Q:
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+A:
+Staging areo contains files that we want to be included in the next commit.
+It offer user flexibility to choose smaller set of files for commit inplace of the whole codebase.
