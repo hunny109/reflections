@@ -11,3 +11,10 @@ How is the staging area different from the working directory and the repository?
 A:
 Staging area contains files that we want to be included in the next commit.
 It offer user flexibility to choose smaller set of files for commit inplace of the whole codebase.
+
+Q:
+How can you use the staging area to make sure you have one commit per logical change?
+
+A:
+Staging area allow user to add file or files that are part of a single logical change for commit.
+Hence user doesn't have include files that are not related to logical change of that commit.
