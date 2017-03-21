@@ -30,3 +30,7 @@ How do the diagrams help you visualize the branch structure?
 
 A:
 It Helps in understanding to flow of commits and its reachablity.
+
+Q:
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+It will creat a commit and update the current checked out branch to the new commit, it will also contain the history of both branche's commits. for the above given reasons
