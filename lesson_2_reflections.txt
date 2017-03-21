@@ -18,3 +18,15 @@ How can you use the staging area to make sure you have one commit per logical ch
 A:
 Staging area allow user to add file or files that are part of a single logical change for commit.
 Hence user doesn't have include files that are not related to logical change of that commit.
+
+Q:
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+A:
+Branches can be very usefull for creating an experimental version of an app without effect the offical working version of an app. 
+
+Q:
+How do the diagrams help you visualize the branch structure?
+
+A:
+It Helps in understanding to flow of commits and its reachablity.
