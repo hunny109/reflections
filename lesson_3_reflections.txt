@@ -24,3 +24,9 @@ Fork->
 Feature provided by Github.
 It allows one user to generate a copie of another user's public repository on its own account.
 Forking let the orignal user know its repository has been forked.
+
+Q:
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+A:
+User will have the up-to-date version of a repository.
