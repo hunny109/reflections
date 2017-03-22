@@ -18,7 +18,7 @@ Branches->
 It is non-linear list of commits, A repository can have many braches.
 
 Clones->
-These are two more copies of repository, store on one diff computers
+These are two more copies of repository, store on same or diff computers
 
 Fork->
 Feature provided by Github.
