@@ -30,3 +30,13 @@ What is the benefit of having a copy of the last known state of the remote store
 
 A:
 User will have the up-to-date version of a repository.
+
+Q:
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+A:
+Sending and recieving file through emails, or some similar severice.
+Easier->
+Didn't have to learn github.
+Harder->
+Manaing files and requests would be very difficult.
