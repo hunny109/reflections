@@ -40,3 +40,10 @@ Easier->
 Didn't have to learn github.
 Harder->
 Manaing files and requests would be very difficult.
+
+Q:
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+A:
+While colaborating with others on any project changes in master brach is only made through pull requests.Your master branch remain constistent, away from bugs.
+Direct pulling into master branch would less complicated but would alson be prone bugs
